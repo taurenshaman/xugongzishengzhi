@@ -15,6 +15,7 @@
 8. [《太上章》](https://book.qidian.com/info/3180733)
 9. [《方外：消失的八门》](http://guofeng.yuedu.163.com/source/b56c5b19afcd40028e2548462221cc81_4)
 10. [《欢想世界》](https://book.qidian.com/info/1021456897)
+11. [《隐蛾》](https://www.qidian.com/book/1038364236/)
 
 ## 带日期的文件
 带日期的Markdown文件是网友在小说评论区发布的内容。限于某些评论未公开，只能通过App浏览，我根据日期和网友昵称逐字保存到了这里，如果不通顺，可能是原作者的问题哦。
